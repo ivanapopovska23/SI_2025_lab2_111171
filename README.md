@@ -61,6 +61,6 @@ Test Case 5: Checking that the checkCart method will be executed successfully an
 
 **MultipleConditionCriteria**  
 So for this criteria, there are minimum 4 test cases, I used 4 different items according to the condition (TXX, FTX, FFT, FFF), they all go through different paths, so every calculation will be different based on the condition they enter (or not), and I check that the result is as expected (the sum of all of the items - according to the logics).  
-(599-30)+(89*0.9*2-30))+(300*12-30)+299=569+130.2+3570+299=4568.2
+(599 - 30) + (89 * 0.9 * 2 - 30)) + ( 300 * 12 - 30) + 299 = 569 + 130.2 + 3570 + 299 = **4568.2**
 
 
