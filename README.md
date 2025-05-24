@@ -1,6 +1,5 @@
 # Ивана Матиева 111171  
 
-# Ивана Матиева 111171  
 
 # 2. CFG   
    ![image](https://github.com/user-attachments/assets/02c73aa3-b165-42f9-9410-3012ce664fb3)
